@@ -18,3 +18,6 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # 2026.7.24更新 提示词和skills
 **见上传的相关内容**
+
+# 2026.7.31更新 主要更新了AI写作的弊端和解决方案问题
+**见上传的相关内容**
