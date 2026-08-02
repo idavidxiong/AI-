@@ -21,3 +21,6 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # 2026.7.31更新 主要更新了AI写作的弊端和解决方案问题
 **见上传的相关内容**
+
+# 2026.8.2更新
+**朱雀AI检测原理深度解析以及怎么通过朱雀检测加contentany的方法**
