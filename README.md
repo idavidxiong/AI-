@@ -24,3 +24,4 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # 2026.8.2更新
 **朱雀AI检测原理深度解析以及怎么通过朱雀检测加contentany的方法**
+**增加：公众号、小红书、视频号和播客怎么联动运营，实操方法分享**
