@@ -36,3 +36,7 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # 2026年8.16更新
 **公众号和小红书素材库加内容创作Skills开源，附工作流从0到1搭建指南，主要AI写作和润色去AI味道整套流程**
+
+# 2026.8.25更新
+
+公众号和小红书情感自媒体创作工作流、大纲Skills经验分享，附核心提示词和代码
