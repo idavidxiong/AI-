@@ -42,3 +42,5 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 公众号和小红书情感自媒体创作工作流、大纲Skills经验分享，附核心提示词和代码
 
 # AI小说被标记低质和同质化，背后的AI检测逻辑是什么？AI味太重降AI的方法
+
+# 2026.8.28：AI写作头条号和公众号出现低创作和同质化怎么办，附真实经验
