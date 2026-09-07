@@ -54,3 +54,5 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 # 2026.9.6更新：
 **AI写公众号和小红书限流和无法搜索，只看朱雀AI检测意义不大**
 详细原因我在也有分享，见代码库
+
+# 用AI做公众号排版后，我省下了80%的时间，附原创排版提示词和Skills
