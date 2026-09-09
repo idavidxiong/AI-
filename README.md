@@ -56,3 +56,7 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 详细原因我在也有分享，见代码库
 
 # 用AI做公众号排版后，我省下了80%的时间，附原创排版提示词和Skills
+# 2026.9.9 更新经验
+
+AI写自媒体文章限流和搜索不到，通过朱雀AI检测和contentany检查的经验分享
+
