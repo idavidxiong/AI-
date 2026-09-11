@@ -60,3 +60,5 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 AI写自媒体文章限流和搜索不到，通过朱雀AI检测和contentany检查的经验分享
 
+# 怎么过朱雀ai检测：朱雀AI检测的检测原理分析，以及用contentany过朱雀检测
+
