@@ -14,6 +14,9 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 # 专业短篇小说创作大师
 # [更多提示词]也会同步在
 
+# 2026年9月29日更新。
+**怎么过朱雀AI检测？为什么没效果的技术原因和解决方案，包括相关的真实方案，可以见代码仓库**
+
 **https://www.aifoxs.com**
 
 # 2026.7.24更新 提示词和skills
