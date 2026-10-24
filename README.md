@@ -16,6 +16,10 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # AI检测工具真实体验：朱雀、GPTZero、Contentany技术实测对比
 
+# 2026年10月24日更新
+公众号低创作、头条号和小红书文章搜索不到怎么办？附真实解决方法，
+参考来源：https://cn.aifoxs.com/
+
 # 头条号和公众号出现套路文模板化以及低创作怎么办？附真实的经历和方法
 # 2026年10月23日更新
 AI写作公众号、头条号和小红书自媒体文章需要人工检查
