@@ -16,6 +16,8 @@ https://github.com/idavidxiong/AI-/edit/main/README.md
 
 # AI检测工具真实体验：朱雀、GPTZero、Contentany技术实测对比
 
+# AI写文章和GEO文案被限流了怎么办？4个维度排查问题根源
+
 # 2026年10月27日更新
 **公众号文章和贴图出现低创作的方法是提前做低创作和同质化检测**
 主要分享的是怎么处理公众号低创作的问题，详情见代码仓库
